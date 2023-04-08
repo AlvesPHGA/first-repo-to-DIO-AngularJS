@@ -1,4 +1,4 @@
-// about condicionais
+// about conditional
 const priceGasoline = 4.89,
    priceAlchool = 2.59,
    kmSpendingCar = 16,
