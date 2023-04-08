@@ -1,7 +1,10 @@
-let priceFuel = 4.89,
+// about var
+
+const priceFuel = 4.89,
    kmSpendingCar = 16,
-   kmTravel = 1220,
-   valueTotal;
+   kmTravel = 1220;
+
+let valueTotal;
 
 valueTotal = ((kmTravel * 2) / kmSpendingCar) * priceFuel;
 
